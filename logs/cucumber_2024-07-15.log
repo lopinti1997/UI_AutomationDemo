@@ -1,0 +1,32 @@
+[INFO ] 2024-07-15 23:45:06,377 DriverFactory.initiate_browser() - Browser value is: Chrome
+[INFO ] 2024-07-15 23:45:07,861 DriverFactory.initiate_browser() - Chromebrowser opened
+[INFO ] 2024-07-15 23:45:11,180 DriverFactory.initiate_browser() - Application URL is : https://rahulshettyacademy.com/client
+[INFO ] 2024-07-15 23:45:11,298 hooks.launchBrowser() - PageLoad Time is : 4930 Milli Seconds
+[INFO ] 2024-07-15 23:45:12,892 DriverFactory.EnteredUserName() - Entered username is :chary1@yopmail.com
+[INFO ] 2024-07-15 23:45:15,902 CommonObjects.user_entered_id_as_from_test_case() -  User Entered EmailID  
+[INFO ] 2024-07-15 23:45:16,344 DriverFactory.EntertedPasssword() - Entered Password:-Chary@123
+[INFO ] 2024-07-15 23:45:19,357 CommonObjects.user_entered_password_as_from_test_case() -  User Entered Password  
+[INFO ] 2024-07-15 23:45:19,523 DriverFactory.ClickOnLoginButton() - Clicked on Login button
+[INFO ] 2024-07-15 23:45:22,536 CommonObjects.user_clicked_on() -  User Clicked On login button  
+[INFO ] 2024-07-15 23:45:22,735 DriverFactory.close_app() -  Browser Closed 
+[INFO ] 2024-07-15 23:45:22,746 DriverFactory.initiate_browser() - Browser value is: Chrome
+[INFO ] 2024-07-15 23:45:23,463 DriverFactory.initiate_browser() - Chromebrowser opened
+[INFO ] 2024-07-15 23:45:26,792 DriverFactory.initiate_browser() - Application URL is : https://rahulshettyacademy.com/client
+[INFO ] 2024-07-15 23:45:26,946 hooks.launchBrowser() - PageLoad Time is : 4199 Milli Seconds
+[INFO ] 2024-07-15 23:45:27,301 DriverFactory.EnteredUserName() - Entered username is :Tara@yopmail.com
+[INFO ] 2024-07-15 23:45:30,307 CommonObjects.user_entered_id_as_from_test_case() -  User Entered EmailID  
+[INFO ] 2024-07-15 23:45:30,744 DriverFactory.EntertedPasssword() - Entered Password:-Tara@12366
+[INFO ] 2024-07-15 23:45:33,749 CommonObjects.user_entered_password_as_from_test_case() -  User Entered Password  
+[INFO ] 2024-07-15 23:45:33,927 DriverFactory.ClickOnLoginButton() - Clicked on Login button
+[INFO ] 2024-07-15 23:45:36,934 CommonObjects.user_clicked_on() -  User Clicked On login button  
+[INFO ] 2024-07-15 23:45:37,135 DriverFactory.close_app() -  Browser Closed 
+[INFO ] 2024-07-15 23:45:37,146 DriverFactory.initiate_browser() - Browser value is: Chrome
+[INFO ] 2024-07-15 23:45:37,902 DriverFactory.initiate_browser() - Chromebrowser opened
+[INFO ] 2024-07-15 23:45:42,203 DriverFactory.initiate_browser() - Application URL is : https://rahulshettyacademy.com/client
+[INFO ] 2024-07-15 23:45:42,365 hooks.launchBrowser() - PageLoad Time is : 5217 Milli Seconds
+[INFO ] 2024-07-15 23:45:45,606 CommonObjects.user_clicked_on_forgot_as() -  >>>>>>>>>> User clicked on forgot link <<<<<<<<<<
+[INFO ] 2024-07-15 23:45:48,838 CommonObjects.user_enterd() -  >>>>>>>>>> User Entered Email id <<<<<<<<<<
+[INFO ] 2024-07-15 23:45:52,138 CommonObjects.user_entered_pwd_as() -  >>>>>>>>>> User Entered Password  <<<<<<<<<<
+[INFO ] 2024-07-15 23:45:55,432 CommonObjects.user_entered_confpwd_as() -  >>>>>>>>>> User Entered Password  <<<<<<<<<<
+[INFO ] 2024-07-15 23:45:58,595 CommonObjects.user_clicked_on_buuton() -  >>>>>>>>>> User Clicked on submit button <<<<<<<<<<
+[INFO ] 2024-07-15 23:45:58,800 DriverFactory.close_app() -  Browser Closed 

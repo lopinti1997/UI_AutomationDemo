@@ -1,0 +1,73 @@
+[INFO ] 2024-07-18 11:05:49,012 DriverFactory.initiate_browser() - Browser value is: Chrome
+[INFO ] 2024-07-18 11:05:52,664 DriverFactory.initiate_browser() - Chromebrowser opened
+[INFO ] 2024-07-18 11:05:53,306 DriverFactory.initiate_browser() - Application URL is : https://rahulshettyacademy.com/client
+[INFO ] 2024-07-18 11:05:53,404 hooks.launchBrowser() - PageLoad Time is : 4413 Milli Seconds
+[INFO ] 2024-07-18 11:05:55,110 DriverFactory.EnteredUserName() - Entered username is :chary1@yopmail.com
+[INFO ] 2024-07-18 11:05:58,112 CommonObjects.user_entered_id_as_from_test_case() -  User Entered EmailID  
+[INFO ] 2024-07-18 11:05:58,542 DriverFactory.EntertedPasssword() - Entered Password:-Chary@123
+[INFO ] 2024-07-18 11:06:01,557 CommonObjects.user_entered_password_as_from_test_case() -  User Entered Password  
+[INFO ] 2024-07-18 11:06:01,710 DriverFactory.ClickOnLoginButton() - Clicked on Login button
+[INFO ] 2024-07-18 11:06:04,721 CommonObjects.user_clicked_on() -  User Clicked On login button  
+[INFO ] 2024-07-18 11:06:04,861 DriverFactory.close_app() -  Browser Closed 
+[INFO ] 2024-07-18 11:06:04,870 DriverFactory.initiate_browser() - Browser value is: Chrome
+[INFO ] 2024-07-18 11:06:05,537 DriverFactory.initiate_browser() - Chromebrowser opened
+[INFO ] 2024-07-18 11:06:06,121 DriverFactory.initiate_browser() - Application URL is : https://rahulshettyacademy.com/client
+[INFO ] 2024-07-18 11:06:06,493 hooks.launchBrowser() - PageLoad Time is : 1621 Milli Seconds
+[INFO ] 2024-07-18 11:06:06,578 hooks.tearDown() - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-6CM26U6', ip: '10.31.20.131', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\Monocept\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50276}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 250050a9deae88f72cc8ef21d04271f5
+[INFO ] 2024-07-18 11:06:06,601 DriverFactory.initiate_browser() - Browser value is: Chrome
+[INFO ] 2024-07-18 11:06:07,253 DriverFactory.initiate_browser() - Chromebrowser opened
+[INFO ] 2024-07-18 11:06:07,956 DriverFactory.initiate_browser() - Application URL is : https://rahulshettyacademy.com/client
+[INFO ] 2024-07-18 11:06:08,221 hooks.launchBrowser() - PageLoad Time is : 1620 Milli Seconds
+[INFO ] 2024-07-18 11:06:08,229 CommonObjects.user_clicked_on_forgot_as() - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-6CM26U6', ip: '10.31.20.131', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\Monocept\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50296}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f8bc95ca0b4adba6b66ae9010ec4f61e
+*** Element info: {Using=xpath, value=//*[@class='forgot-password-link']}
+[INFO ] 2024-07-18 11:06:08,314 CommonObjects.user_enterd() - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-6CM26U6', ip: '10.31.20.131', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\Monocept\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50296}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f8bc95ca0b4adba6b66ae9010ec4f61e
+*** Element info: {Using=xpath, value=//*[@type='email']}
+[INFO ] 2024-07-18 11:06:08,353 CommonObjects.user_entered_pwd_as() - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-6CM26U6', ip: '10.31.20.131', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\Monocept\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50296}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f8bc95ca0b4adba6b66ae9010ec4f61e
+*** Element info: {Using=xpath, value=//input[@id='userPassword']}
+[INFO ] 2024-07-18 11:06:08,389 CommonObjects.user_entered_confpwd_as() - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-6CM26U6', ip: '10.31.20.131', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\Monocept\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50296}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f8bc95ca0b4adba6b66ae9010ec4f61e
+*** Element info: {Using=xpath, value=//input[@id='confirmPassword']}
+[INFO ] 2024-07-18 11:06:08,398 CommonObjects.user_clicked_on_buuton() - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-6CM26U6', ip: '10.31.20.131', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\Monocept\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50296}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f8bc95ca0b4adba6b66ae9010ec4f61e
+*** Element info: {Using=xpath, value=//*[@type='submit']}
+[INFO ] 2024-07-18 11:06:08,464 DriverFactory.close_app() -  Browser Closed 
